@@ -91,6 +91,7 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 |  🧩 [nvm](https://github.com/tesujimath/bash-env-elvish/blob/main/nvm.elv) | Support for NVM (node version manager). |
 | 📦 [github.com/tesujimath/elvish-tap](https://github.com/tesujimath/elvish-tap) |
 |  🧩 [tap](https://github.com/tesujimath/elvish-tap/blob/main/tap.elv) | [Test Anything Protocol](https://testanything.org/) (TAP) for Elvish. |
+|  🧩 [astral-bridge](https://github.com/giancosta86/astral-bridge) | Bridge between the Elvish shell and NodeJS.  |
 
 ## More Awesome Elvish Stuff
 
@@ -101,4 +102,3 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 📄 [darcy-shen/oh-my-elvish](https://github.com/darcy-shen/oh-my-elvish) | User-friendly, productive and cross-platform elvish configuration. |
 | 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy, with [support for Elvish](https://www.x-cmd.com/mod/elv). |
 | 🛠 [dorothy](https://github.com/bevry/dorothy) | Bring your dotfile commands to any shell. Sensible defaults and hundreds of commands preloaded. Supports Elvish on macOS, Linux, Windows. |
-
