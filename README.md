@@ -102,3 +102,4 @@ A curated list of awesome Elvish packages, modules, and tools that support Elvis
 | 🛠 [x-cmd](https://www.x-cmd.com/) | x-cmd is a vast and interesting collection of tools guided by the Unix philosophy, with [support for Elvish](https://www.x-cmd.com/mod/elv). |
 | 🛠 [dorothy](https://github.com/bevry/dorothy) | Bring your dotfile commands to any shell. Sensible defaults and hundreds of commands preloaded. Supports Elvish on macOS, Linux, Windows. |
 |📦 [gauntlet](https://github.com/giancosta86/gauntlet)| Elvish toolkit for CI/CD actions |
+|🛠 [aurora-github](https://github.com/giancosta86/aurora-github)| Elegant CI/CD for Github Actions |
